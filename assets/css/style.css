@@ -92,7 +92,7 @@ h6 {
     line-height: 1.25em;
     margin: 0px;
     background: none;
-    color: #1e2843;
+    color: #000000;
 }
 
 textarea {
@@ -436,7 +436,7 @@ img {
     height: 100%;
     width: 0%;
     content: "";
-    background-color: #1e2843;
+    background-color: #000000;
     transition: .5s;
 }
 
@@ -530,7 +530,7 @@ img {
     font-size: 15px;
     font-weight: 500;
     color: #fff;
-    background-color: #1e2843;
+    background-color: #000000;
     display: inline-block;
     vertical-align: middle;
     margin: 0;
@@ -663,7 +663,7 @@ img {
 }
 
 .main-menu .navigation>li.shop-category>a {
-    color: #1e2843;
+    color: #000000;
     font-size: 18px;
     text-transform: uppercase;
 }
@@ -744,7 +744,10 @@ img {
     font-size: 14px;
     margin-bottom: 5px;
 }
-
+.active-tab{
+    color: #000 !important;
+    border-bottom: 2px solid #000 !important;
+}
 .main-menu .contact-info h4 {
     font-size: 22px;
 }
@@ -764,7 +767,7 @@ img {
 
 .main-menu .navigation>li {
     position: relative;
-    padding: 22px 0px;
+    padding: 0px 0px;
     margin-right: 35px;
     -webkit-transition: all 300ms ease;
     -o-transition: all 300ms ease;
@@ -2165,7 +2168,7 @@ img {
     margin-right: 18px;
     font-size: 16px;
     font-weight: 700;
-    color: #1e2843;
+    color: #000000;
     padding: 10px 20px;
     margin-bottom: 15px;
     background-color: #f7fbff;
@@ -2235,7 +2238,7 @@ img {
 
 .product-block h4 a {
     transition: .5s;
-    color: #1e2843;
+    color: #000000;
 }
 
 .product-block .price {
@@ -2426,7 +2429,7 @@ img {
 }
 
 .product-block-two h4 a {
-    color: #1e2843;
+    color: #000000;
 }
 
 .product-block-two ul {
@@ -2435,7 +2438,7 @@ img {
 
 .product-block-two ul li {
     position: relative;
-    color: #1e2843;
+    color: #000000;
 }
 
 .product-block-two .read-more-link {
@@ -2550,7 +2553,7 @@ img {
 
 .news-block h4 a {
     position: relative;
-    color: #1e2843;
+    color: #000000;
     transition: .5s;
 }
 
@@ -2559,7 +2562,7 @@ img {
 .main-footer {
     position: relative;
     padding: 120px 0 70px;
-    background-color: #1e2843;
+    background-color: #000000;
 }
 
 .widget {
@@ -2664,7 +2667,7 @@ img {
 
 .footer-bottom {
     position: relative;
-    background-color: #1e2843;
+    background-color: #000000;
 }
 
 .footer-bottom .outer-box {
@@ -2745,18 +2748,18 @@ img {
 }
 
 .header-style-two .main-menu .navigation>li>a {
-    color: #1e2843;
+    color: #000000;
     font-size: 15px;
     font-weight: 500;
     font-family: 'Rubik', sans-serif;
 }
 
 .header-style-two .main-menu .navigation>li:before {
-    color: #1e2843;
+    color: #000000;
 }
 
 .header-style-two .header-lower .navbar-right-info .social-icon a {
-    color: #1e2843;
+    color: #000000;
 }
 
 .main-header.header-style-two .header-upper .right-info li {
@@ -2784,7 +2787,7 @@ img {
 
 .main-header.header-style-two .header-upper .search-box button {
     background: #fff;
-    color: #1e2843;
+    color: #000000;
 }
 
 .main-header.header-style-two .header-upper .search-box button:hover {
@@ -2792,7 +2795,7 @@ img {
 }
 
 .main-header.header-style-two .header-upper .search-box button:before {
-    background: #1e2843;
+    background: #000000;
 }
 
 /* style two */
@@ -2868,7 +2871,7 @@ img {
     position: relative;
     padding: 20px;
     display: block;    
-    color: #1e2843;
+    color: #000000;
     font-size: 18px;
     font-weight: 700;
     transition: .5s;
@@ -2959,7 +2962,7 @@ img {
 /* Trending Product style two */
 
 .trending-products.style-two {
-    background-color: #1e2843;
+    background-color: #000000;
 }
 
 .trending-products.style-two .product-block-two .inner-box {
@@ -3017,7 +3020,7 @@ img {
 }
 
 .deal-of-day h4 a {
-    color: #1e2843;
+    color: #000000;
 }
 
 .deal-of-day .price {
@@ -3061,7 +3064,7 @@ img {
 	display: block;
     font-size: 20px;
     font-weight: 700;
-    color: #1e2843;
+    color: #000000;
 	min-width: 75px;
 	padding: 0 10px;
 	text-align: center;
@@ -3223,7 +3226,7 @@ img {
 }
 
 .best-sell-product h4 a {
-    color: #1e2843;
+    color: #000000;
 }
 
 .best-sell-product .rating {
@@ -3253,7 +3256,7 @@ img {
 }
 
 .testimonials-section .theme-btn {
-    background: #ff6349;
+    background: #000000;
     margin-bottom: 30px;
 }
 
@@ -3393,7 +3396,7 @@ img {
 }
 
 .news-block-two h4 a {
-    color: #1e2843;
+    color: #000000;
     transition: .5s;
 }
 
@@ -3487,7 +3490,7 @@ img {
 }
 
 .news-block-three h4 a {
-    color: #1e2843;
+    color: #000000;
     transition: .5s;
 }
 
@@ -3533,11 +3536,11 @@ img {
 /* Header style three */
 
 .header-style-three {
-    background: #1e2843;
+    background: #000000;
 }
 
 .main-header.header-style-three .header-upper .inner-container {
-    background: #1e2843;
+    background: #000000;
     padding: 0;
 }
 
@@ -3566,7 +3569,7 @@ img {
 
 .main-header.header-style-three .header-upper .search-box button {
     background: #fff;
-    color: #1e2843;
+    color: #000000;
 }
 
 .main-header.header-style-three .header-upper .search-box button:hover {
@@ -3574,7 +3577,7 @@ img {
 }
 
 .main-header.header-style-three .header-upper .search-box button:before {
-    background: #1e2843;
+    background: #000000;
 }
 
 /* banner section two */
@@ -3699,7 +3702,7 @@ img {
 }
 
 .features-section.style-two .feature-block:nth-child(3) .inner-box {
-    background-color: #1e2843;
+    background-color: #000000;
 }
 
 .features-section.style-two .feature-block:nth-child(2) .inner-box h5,
@@ -3718,7 +3721,7 @@ img {
 }
 
 .features-section.style-two .feature-block:nth-child(1) .price {
-    color: #1e2843;
+    color: #000000;
 }
 
 
@@ -3792,7 +3795,7 @@ img {
 }
 
 .product-block-three h4 a {
-    color: #1e2843;
+    color: #000000;
     transition: 5s;
 }
 
@@ -3882,7 +3885,7 @@ img {
 
 .product-block-four h4 a {
     transition: .5s;
-    color: #1e2843;
+    color: #000000;
 }
 
 .product-block-four .price {
@@ -4138,7 +4141,7 @@ img {
 }
 
 .features-section-two.style-two .wrapper-box {
-    background: #1e2843;
+    background: #000000;
     padding: 70px 20px 40px;
 }
 
@@ -4410,7 +4413,7 @@ img {
 }
 
 .features-section-five .feature-block:nth-child(3) .inner-box {
-    background-color: #1e2843;
+    background-color: #000000;
 }
 
 .features-section-five .feature-block:nth-child(1) .inner-box h5,
@@ -4429,7 +4432,7 @@ img {
 }
 
 .features-section-five .feature-block:nth-child(2) .price {
-    color: #1e2843;
+    color: #000000;
 }
 
 /* Featured products / style two */
@@ -4461,7 +4464,7 @@ img {
     left: 0;
     top: -60px;
     right: 0;
-    background: #1e2843;
+    background: #000000;
     height: 63%;
     transform: skewY(-12deg);
 }
@@ -5308,7 +5311,7 @@ img {
 }
 
 .contact-info-section.style-two .contact-info-block .icon {
-    background: #1e2843;
+    background: #000000;
     color: #ffba00;
 }
 
@@ -5768,7 +5771,7 @@ img {
     position: relative;
     padding: 50px 20px;
     text-align: center;
-    background-color: #1e2843;
+    background-color: #000000;
 }
 
 .newsletter-widget h4 {
@@ -6468,7 +6471,7 @@ img {
 
 .product-block-five h4 a {
     transition: .5s;
-    color: #1e2843;
+    color: #000000;
 }
 
 .product-block-five .price {
@@ -6491,7 +6494,7 @@ img {
 .btn-style-one.style-3 {
     position: relative;
     background: #f7fbff;
-    color: #1e2843;
+    color: #000000;
 }
 
 .btn-style-one.style-3:hover {
@@ -6558,7 +6561,7 @@ img {
 
 .product-details .product-content h4 a {
     transition: .5s;
-    color: #1e2843;
+    color: #000000;
 }
 
 .product-details .product-content .price {
@@ -7457,7 +7460,7 @@ img {
   }
 
   .cart-section .btn-box button.theme-btn-four:hover {
-      background-color: #ff5134;
+      background-color: #4abfe9;
       color: #fff;
   }
 
@@ -7729,12 +7732,12 @@ img {
   }
   
 .cart-table tbody tr .remove-btn:hover{
-	color: #ff5134;
-	border-color: #ff5134;
+	color: #4abfe9;
+	border-color: #4abfe9;
 }
 
 .cart-section .apply-coupon .form-group input:focus{
-	border-color: #ff5134 !important;
+	border-color: #4abfe9 !important;
 }
 
 .cart-section .apply-coupon .form-group button{
@@ -7743,7 +7746,7 @@ img {
 
 .cart-section .apply-coupon .form-group button:hover {
     color: #fff;
-    background-color: #ff5134;
+    background-color: #4abfe9;
 }
 
 .cart-section .btn-box .cart-btn{
@@ -7751,8 +7754,8 @@ img {
 }
 
 .cart-section .btn-box .cart-btn:hover{
-  background: #ff5134;
-  border-color: #ff5134;
+  background: #4abfe9;
+  border-color: #4abfe9;
 }
 
 .checkout-page-section .accordion .payment-info .field-input .theme-btn {
